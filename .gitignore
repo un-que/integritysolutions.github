@@ -1,0 +1,7 @@
+!.gitignore
+!.md
+/Tags
+/.git
+/.makemd
+/.obsidian
+/.space
