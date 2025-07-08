@@ -1,1 +1,1 @@
-# integritysolutions.github
+This is an official integrity solutions information page
